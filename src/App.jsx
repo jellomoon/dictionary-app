@@ -5,10 +5,10 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <div>
-        <Dictionary />
+      <div className="container">
+        <Dictionary defaultKeyword="dictionary" />
         <footer>
-          Coded with 🤍 by Mona Beyersdorf, open-sourced on{" "}
+          Coded with 🩷 by Mona Beyersdorf, open-sourced on{" "}
           <a href="https://github.com/jellomoon/dictionary-app">GitHub</a>
         </footer>
       </div>

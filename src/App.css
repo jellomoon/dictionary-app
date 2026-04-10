@@ -1,3 +1,33 @@
+body {
+  background: #ebe9e1;
+  color: #e43d12;
+  font-family: "Domine", serif;
+  margin: 0 auto;
+}
+
+.App header {
+  text-align: center;
+}
+
+.App h1 {
+  font-family: "Chonburi", serif;
+  font-size: 72px;
+}
+
+.App .for {
+  font-family: "Italianno", cursive;
+  font-size: 64px;
+}
+
+.App a {
+  color: #d6536d;
+  text-decoration: none;
+}
+
+.App a:hover {
+  text-decoration: underline;
+}
+
 .App footer {
   margin: 30px;
   text-align: center;

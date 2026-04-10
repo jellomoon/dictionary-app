@@ -1,33 +1,26 @@
 .Phonetic {
   display: flex;
-  align-items: center;
-  justify-content: center;
   gap: 10px;
   margin: 8px 0;
 }
 
 .audio-button {
-  background: #6c63ff;
+  background: #ffa2b6;
   color: white;
   border: none;
   border-radius: 50%;
   width: 36px;
   height: 36px;
   cursor: pointer;
-  transition: 0.3s;
+  transition: all 150ms ease-in-out;
 }
 
 .audio-button:hover {
-  background: #574fd6;
   transform: scale(1.1);
-}
-
-.label {
-  font-weight: bold;
-  font-size: 12px;
-  color: #666;
 }
 
 .text {
   font-size: 16px;
+  opacity: 0.8;
+  padding-top: 7px;
 }
