@@ -22,7 +22,8 @@ body {
 }
 
 .App a {
-  color: #ffa2b6;
+  color: #d6536d;
+  font-weight: bold;
   text-decoration: none;
 }
 
