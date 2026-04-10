@@ -9,7 +9,12 @@ export default function App() {
         <Dictionary defaultKeyword="dictionary" />
         <footer>
           Coded with 🩷 by Mona Beyersdorf, open-sourced on{" "}
-          <a href="https://github.com/jellomoon/dictionary-app">GitHub</a>
+          <a
+            href="https://github.com/jellomoon/dictionary-app"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </footer>
       </div>
     </div>
